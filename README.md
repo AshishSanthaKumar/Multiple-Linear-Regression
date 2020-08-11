@@ -1,5 +1,4 @@
 # Multiple-Linear-Regression
-Predicting the Medical cost for Insurance in the USA
 
 This model can be used by the insurance companies to predict the medical cost of a particular person based on the following predictor variables:
 
@@ -14,3 +13,5 @@ This model can be used by the insurance companies to predict the medical cost of
 5) Smoker (Yes/No)
 
 6) Region in USA (Northeast, Southeast, Southwest, Northwest)
+
+The model predicts the variable - 'Charges' (Dependent or Y variable)
